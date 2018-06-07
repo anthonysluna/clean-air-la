@@ -32,7 +32,8 @@ Here are the data sources being utilized in this project
 | [California elected and appointed officials database](https://transparentcalifornia.com/agencies/salaries/#cities) | Manipulation of Raw data from Transparent California California Public Records Act (CPRA) Request.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |     2014-2017 (depending on availability)         |
 | [Pesticide Pathology database]("http://www.cehtp.org/page/pesticides/about_the_data")                              | Table put together according to the guidelines and sources provided by the California Environmental Health Tracking Program (CEHTP)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2014 |
 
-To-Do: Expand Sensitive sites sources to include Healthcare facilities
+**To-Do:**
+1. Expand Sensitive sites sources to include Healthcare facilities
 
 ## Output Specifics and Assumptions
 
@@ -45,3 +46,6 @@ To-Do: Expand Sensitive sites sources to include Healthcare facilities
 |4| Proximal pesticide use locations with historical use reporting of over the last 18 years (where available) |
 |5| List of sensitive sites with relative risk analysis at the county level                                    |
 |6| Directory of relevant State, County, City and District officials                                           |
+
+**To-Do:**
+1. Expand Assumptions section once outputs are complete
