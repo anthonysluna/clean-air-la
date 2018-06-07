@@ -1,11 +1,22 @@
-# clean-air-la
+# Pesticide Transparency Portal
 
 
 ## Purpose
 
+Agriculture makes up a substantial portion of California's revenue. Current practice in this industry relies heavily on pesticide products, many of which have been determined to have detrimental effects to workers and the surrounding communities. This portal provides contextual analysis for citizens who would like to know more about what products are being used in their communities, the sensitive sites that are at risk of being effected by these products and contacts to raise awareness to various regulatory agencies who can enact changes.
+
 ## Inputs
 
+User's address or place of interest
+
 ## Ouputs
+|---|----------------------------------------------------------|
+|1| CalEnviroScreening 3.0 results with county wide comparisons                                                |
+|2| Relative ranking of pesticide use compared to other counties state wide                                    |
+|3| Relative ranking of pesticide use compared to other cities county wide                                     |
+|4| Proximal pesticide use locations with historical use reporting of over the last 18 years (where available) |
+|5| List of sensitive sites with relative risk analysis at the county level                                    |
+|6| Directory of relevant State, County, City and District officials                                           |
 
 ## Resources
 
@@ -23,4 +34,14 @@ Here are the data sources being utilized in this project
 | -------------                                                                             | -----------                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ------------ |
 
 
+## Output Specifics and Assumptions
 
+
+|Section|Desctiption|
+|---|----------------------------------------------------------|
+|1| CalEnviroScreening 3.0 results with county wide comparisons                                                |
+|2| Relative ranking of pesticide use compared to other counties state wide                                    |
+|3| Relative ranking of pesticide use compared to other cities county wide                                     |
+|4| Proximal pesticide use locations with historical use reporting of over the last 18 years (where available) |
+|5| List of sensitive sites with relative risk analysis at the county level                                    |
+|6| Directory of relevant State, County, City and District officials                                           |
